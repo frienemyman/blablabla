@@ -283,7 +283,7 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/discoverykids.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS",Sony YAY! HD
 https://raw.githubusercontent.com/frienemyman/jiochannel/main/Sonyyay.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS",Sony YAY! HD (Bangla)
-
+https://cutt.ly/sYaY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS",Sony YAY! SD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK HD USA
@@ -547,7 +547,7 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/StarsportsselectHd
 #EXTINF:-1 tvg-id="StarSportsSelect2(src07).in(m3u4u)" tvg-name="Star Sports Select 2 HD"  tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 2 (4K)
 http://str24.l9574.com/737.stream/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2(src07).in(m3u4u)" tvg-name="Star Sports Select 2 HD"  tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 2 HD (Back up-1)
-http://183.178.58.115:8021/0.ts
+http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect2(src07).in(m3u4u)" tvg-name="Star Sports Select 2 HD"  tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 2 HD  (Back up-2)
 http://103.131.212.138:8000/play/a01a/index.m3u8
@@ -1112,7 +1112,7 @@ http://144.217.70.181:9587/hin2/SONYPAL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY WAH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjlrjwQ.jpg"  group-title="HINDI ENT.", Sony Sab HD
-http://183.178.58.115:8034/0.ts
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjlrjwQ.jpg"  group-title="HINDI ENT.",Sony Sab HD (Back Up-1)
 http://5stariptv.ddns.net/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
@@ -1126,12 +1126,12 @@ http://str24.l9574.com/703.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV HD
 https://raw.githubusercontent.com/frienemyman/jiochannel/main/andtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV HD (Back UP-1)
-
+http://45.86.190.64:25461/1PMZ2u8QHV/d6bVY7qSCs/34480?play_token=EBtgMFF1jX&token=TURYAhZYEAwSVVJQXVMEUFdaB1MHDlBVUAJSA14MVgZUBFVRXAVXDghGTxBLF0AGVA9uD1IbCQUFB1wFShsTFlMUbwoBEggUAVFTAgFSAEEZQEUPW1wRDAAFUAVUDl9UA1AcQRVZVhQKRlIKAVEFQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFcCVxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSCloFUxMb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV HD (Back UP-2)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV HD (Back UP-3)
 
-http://89.187.182.181:9090/SM_FHD-HINDI-ANDTV/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="ZeeTV(src07).in(m3u4u)" tvg-name="Zee TV"  tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI ENT.",Zee TV (4K)
 http://str24.l9574.com/606.stream/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV(src07).in(m3u4u)" tvg-name="Zee TV"  tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI ENT.",Zee TV HD-1
@@ -1437,7 +1437,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 http://iptv.prosto.tv:7000/ch83/video.m3u8
 
 #EXTINF:-1 tvg-id="NATGEOWILD(src01).es(m3u4u)" tvg-name="Nat Geo Wild"  tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFOTAINMENT",NAT GEO WILD HD (Back up-2)
-http://185.186.81.150:9779/NGWild
+http://916309128f3e.sn.mynetname.net:1935/aslive/natgeowild/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NATGEOWILD(src01).es(m3u4u)" tvg-name="Nat Geo Wild"  tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFOTAINMENT",NAT GEO WILD HD (Back up-3)
 http://103.161.2.142/hls/wild.m3u8
@@ -1506,7 +1506,7 @@ http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 #EXTINF:-1 tvg-id="TLC(src07).in(m3u4u)" tvg-name="TLC"  tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT",TLC HD (USA-1)
 https://raw.githubusercontent.com/frienemyman/jiochannel/main/tlcenglis.m3u8
 #EXTINF:-1 tvg-id="TLC(src07).in(m3u4u)" tvg-name="TLC"  tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT",TLC HD (USA-2)
-
+https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="INFOTAINMENT",History TV
@@ -1771,7 +1771,7 @@ http://livetv2021.site:8080/9897876765/6576567/6744
 http://livetv2021.site:8080/9897876765/6576567/6650
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",Star Hits 2 (Dual Audio)
-http://livetv2021.site:8080/9897876765/6576567/902
+http://93.157.62.180:80/FoxLife/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxLife.es(m3u4u)" tvg-name="Fox Life"  group-title="ENGLISH ENT.",tvN Network
@@ -2028,8 +2028,8 @@ http://str24.l9574.com/730.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="StarGold(src07).in(m3u4u)" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold
 http://str24.l9574.com/717.stream/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="StarGold(src07).in(m3u4u)" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD (4K)
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/194.ts
+#EXTINF:-1 tvg-id="StarGold(src07).in(m3u4u)" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD
+http://208.86.19.21:80/717.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold(src07).in(m3u4u)" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Utsav Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
@@ -2043,7 +2043,7 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/Stargold2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6GIL2K.png" group-title="HINDI MOVIES",Star Gold Select HD
-http://183.178.58.115:8026/0.ts
+http://208.86.19.21:80/709.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6GIL2K.png" group-title="HINDI MOVIES",Star Gold Select HD (back up)
 https://raw.githubusercontent.com/frienemyman/jiochannel/main/StargoldselectHd.m3u8
