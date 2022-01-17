@@ -290,6 +290,7 @@ http://str24.l9574.com/33.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK HD+
 https://raw.githubusercontent.com/frienemyman/jiochannel/main/Cn.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network FHD" tvg-logo="" group-title="KIDS",Cartoon Network HD
+https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS",Disney XD
 http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/1492.ts
@@ -847,6 +848,7 @@ http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/365.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports 
 http://str24.l9574.com/610.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports (Back up-1)
+http://221.120.204.4:80/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",OSN SPORTS
 
 #EXTINF:-1 tvg-logo="https://www.geosuper.tv/assets/front/img/live_banner.jpg" group-title="SPORTS",Geo Super
@@ -1405,7 +1407,7 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/Sonybbcearth.m3u8
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="INFOTAINMENT",Planet Earth HD
-
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="INFOTAINMENT",NASA TV FHD VIP
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="INFOTAINMENT",Digi world USA
@@ -1417,7 +1419,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 #EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-1
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NAT GEO (Back UP)
-http://103.131.212.138:8000/play/a00x/index.m3u8
+http://221.120.204.4/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-2
 http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
@@ -1532,6 +1534,8 @@ http://livetv2021.site:8080/9897876765/6576567/6650
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="INFOTAINMENT", Discovery ASIA HD (ENG)
 http://125.227.210.37:10388/VideoInput/play.ts
+#EXTINF:-1 group-title="INFOTAINMENT",Discovery Asia
+https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="INFOTAINMENT",DTX FHD
 http://58.65.171.202:8000/play/15004/index.m3u8
@@ -1565,8 +1569,6 @@ https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT",Outdoor TV 
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="INFOTAINMENT",Outdoor USA-1
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/697.ts
 
 #EXTINF:-1 group-title="INFOTAINMENT",Outdoor USA-2
 http://58.96.43.228:9981/stream/channelid/1646856458
@@ -1589,7 +1591,7 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",Discovery HD
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/44.ts
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",Discovery SD
 http://str24.l9574.com/31.stream/index.m3u8
@@ -1600,7 +1602,7 @@ http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",Discovery HD (Back up-2)
 http://58.65.171.202:8000/play/4321/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",Discovery Velocity
-http://45.153.35.204:8000/play/a06m/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",INVESTIGATION DISCOVERY
 https://ent.gcdn.co/E113/index.m3u8
@@ -1740,7 +1742,7 @@ http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="ENGLISH ENT.",AXN 
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="ENGLISH ENT.",AXN (Backup-2)
-http://content.hoihulloor.com/axn/tracks-v1a1/mono.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/axn/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="ENGLISH ENT.",Zee cafe
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6621/index.m3u8
@@ -1957,7 +1959,7 @@ https://ent.gcdn.co/E169/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity(src07).in(m3u4u)" tvg-name="Colors Infinity"  group-title="ENGLISH ENT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/5ca3012fcbc70colors-infinity-main.png/180px-5ca3012fcbc70colors-infinity-main.png",Colors Infinity HD
 https://raw.githubusercontent.com/frienemyman/jiochannel/main/colorsinfinity.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity(src07).in(m3u4u)" tvg-name="Colors Infinity"  group-title="ENGLISH ENT." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/5ca3012fcbc70colors-infinity-main.png/180px-5ca3012fcbc70colors-infinity-main.png",Colors Infinity SD  (Back UP)
-
+http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="ENGLISH ENT.",KIX HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5j5FjR3.jpg" group-title="ENGLISH ENT.",Retro TV
@@ -1979,7 +1981,7 @@ http://str24.l9574.com/831.stream/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies(src07).in(m3u4u)" tvg-name="B4U Movies" group-title="HINDI MOVIES", B4U Aflam
 https://last.gcdn.co/AR75/index.m3u8
 #EXTINF:-1 tvg-id="Enterr10(src07).in(m3u4u)" tvg-name="Enterr 10 Movies"  tvg-logo="https://i.imgur.com/LhuEfY3.png" group-title="HINDI MOVIES", Enterr 10 Movie
-http://opplex.tv:8080/shadrukh45/P446763573/104202
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELlgud2.png" group-title="HINDI MOVIES",UTV Action
@@ -2256,8 +2258,8 @@ http://203.154.243.89:11205
 #EXTINF:-1 tvg-id="WarnerTV(src01).fr(m3u4u)" tvg-name="Warner TV" tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB Movies HD (Dual Audio)
 http://livetv2021.site:8080/9897876765/6576567/6650
 
-#EXTINF:-1 group-title="ENGLISH MOVIES",HITS
-
+#EXTINF:-1 group-title="ENGLISH MOVIES",Box Hits
+https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",BEIN MOVIES HD 1 
 http://125.209.88.166:45793/BRN/beINPremiere1.stream/playlist.m3u8
 
@@ -2282,7 +2284,7 @@ http://125.209.88.166:45793/BRN/MBC2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC+ Variety HD
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",OSN MOVIES FIRST HD
-
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="ENGLISH MOVIES",OSN MOVIES  HD
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",OSN Series HD
@@ -2295,8 +2297,9 @@ http://125.209.88.166:45793/BRN/OsnComedyHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/Paramount.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES",Movies
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 
+
+https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES",& Flix HD 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES",& Flix HD (Extra-2)
@@ -2308,7 +2311,8 @@ https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 http://103.153.39.36:8000/play/a00u
 #EXTINF:-1 tvg-id="MNplus(src07).in(m3u4u)" tvg-name="MN+ HD" tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="ENGLISH MOVIES",MN+ HD (Extra)
 
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIES" Movies
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIES",BOX TV
+https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIES",Moviehub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIES",Hits Drama
@@ -2327,7 +2331,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JWYVCH1.png" group-title="ENGLISH MOVIES",FOX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="ENGLISH MOVIES",ROMEDY NOW
-http://103.131.212.138:8000/play/a035/index.m3u8
+http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES",Romedy Now-1
 
