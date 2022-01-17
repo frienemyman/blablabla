@@ -243,7 +243,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="KIDS",Disney USA
 http://str24.l9574.com/14.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-http://58.27.219.166:8000/play/a06h/index.m3u8
+http://125.209.88.166:45793/BRN/Nickelodeon.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS",Discovery Kids (dual Audio)
 http://livetv2021.site:8080/9897876765/6576567/6656
@@ -326,10 +326,10 @@ http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKSpv5k.png" group-title="KIDS",Pogo SD (Backup-1)
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo=" https://i.imgur.com/20fs4tp.png " group-title="KIDS",Disney Junior
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6489/index.m3u8
+http://125.209.88.166:45793/BRN/DisneyXDHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo=" https://i.imgur.com/20fs4tp.png " group-title="KIDS",Disney Junior (Back UP)
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/49.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="KIDS",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -1540,12 +1540,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=h
 #EXTINF:-1 group-title="INFOTAINMENT",DTX FHD
 http://58.65.171.202:8000/play/15004/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT",HGTV +1
-https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
+
 
 #EXTINF:-1 group-title="INFOTAINMENT",HGTV 
 http://58.65.171.202:8000/play/4334/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT",HGTV (USA)
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6525/index.m3u8
+http://125.209.88.166:45793/BRN/FoodNetwork.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="INFOTAINMENT",Fastbox & Fun
 http://iptv.prosto.tv:7000/ch120/video.m3u8
@@ -1788,7 +1788,7 @@ http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",LMN  FHD
 http://str24.l9574.com/22.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",POP  FHD
-https://ent.gcdn.co/E134/index.m3u8
+http://125.209.88.166:45793/BRN/SonyTurbo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",Hallmark FHD
 http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/1135.ts
@@ -1822,6 +1822,7 @@ https://ent.gcdn.co/E139/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",COMET (USA)
+http://125.209.88.166:45793/BRN/ParamountComedy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",Gold (UK)
 http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/33.ts
 
@@ -1928,8 +1929,8 @@ http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",FOX HD (Back UP)
 http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/261.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg"group-title="ENGLISH ENT.",BBC HD
-https://ent.gcdn.co/E20/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg"group-title="ENGLISH ENT.",BBC First HD
+http://125.209.88.166:45793/BRN/BBCFirstHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg"group-title="ENGLISH ENT.",BBC America HD
 http://str24.l9574.com/34.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" tvg-logo="" group-title="ENGLISH ENT.",FOX FHD
@@ -2256,7 +2257,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTV(src01).fr(m3u4u)" tvg-name="Warner TV" tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB HD 
 http://203.154.243.89:11205
 #EXTINF:-1 tvg-id="WarnerTV(src01).fr(m3u4u)" tvg-name="Warner TV" tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB Movies HD (Dual Audio)
-http://livetv2021.site:8080/9897876765/6576567/6650
+http://125.209.88.166:45793/BRN/TNT.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Box Hits
 https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
@@ -2275,12 +2276,12 @@ http://125.209.88.166:45793/BRN/beINPremiere4.stream/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",BEIN MOVIES HD 4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
-
+http://125.209.88.166:45793/BRN/MBCMax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 HD
 http://125.209.88.166:45793/BRN/MBC2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action HD
-
+http://125.209.88.166:45793/BRN/MBCAction.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC+ Variety HD
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",OSN MOVIES FIRST HD
