@@ -92,7 +92,7 @@ http://103.161.2.142/hls/news24.m3u8
 http://str24.l9574.com/609.stream/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="Bangla",Deepto TV HD (Backup)
 #EXTGRP:Bangla
-Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+
 
 
 
@@ -773,21 +773,20 @@ http://185.140.187.67:4000/play/a01j
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports xtra-2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS USA-1
-http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6132/index.m3u8
+http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS USA-2
-http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6133/index.m3u8
+http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS USA-3
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS MAX
+http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS USA-4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 France
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (4K)
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/359.ts
-
+http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (Backup-1)
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
@@ -799,7 +798,7 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-1)
-http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
+http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (4k)
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
