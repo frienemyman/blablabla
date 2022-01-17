@@ -1407,7 +1407,7 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/Sonybbcearth.m3u8
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="INFOTAINMENT",Planet Earth HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://raw.githubusercontent.com/frienemyman/jiochannel/main/planetearth.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT",NASA TV FHD VIP
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="INFOTAINMENT",Digi world USA
