@@ -16,7 +16,7 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD (Back up-2)
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD (Back up-3)
-http://content.hoihulloor.com/GTV/tracks-v1a1/mono.m3u8
+http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD (Back up-4)
 
@@ -82,7 +82,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla",Nagorik TV HD
 #EXTGRP:Bangla
-http://103.161.2.142/hls/news24.m3u8
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla",Nagorik TV HD (Backup)
 
@@ -256,8 +256,8 @@ http://79.114.34.202:8000/play/a01p
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 #EXTINF:1 tvg-id="NickJunior(src07).in(m3u4u)" tvg-name="Nick JR" tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KIDS",Nick Jr USA
 
-#EXTINF:-1 group-title="KIDS",Nick jr (India)
-https://raw.githubusercontent.com/frienemyman/jiochannel/main/nickjr.m3u8
+#EXTINF:-1 group-title="KIDS",Nick jr
+http://58.65.171.202:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="KIDS",Boomerang USA
 
 #EXTINF:-1 group-title="KIDS",ABC Spark
@@ -292,8 +292,8 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/Cn.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network FHD" tvg-logo="" group-title="KIDS",Cartoon Network HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS",Disney XD
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/1492.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS",JimJam Kids
+http://58.65.171.202:8000/play/7351/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS",Lego TV
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
@@ -310,7 +310,7 @@ http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/26.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS",BBC Cbeebies 
 http://iptv.prosto.tv:7000/ch320/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ux9k61z.png" group-title="KIDS",Disney USA
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6490/index.m3u8
+http://58.65.171.202:8000/play/7350/index.m3u8
 
 #EXTINF:-1 group-title="KIDS",Cartoonito USA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ux9k61z.png" group-title="KIDS",Disney INDIA
@@ -1211,9 +1211,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg"group-title="MUSIC", 8X music
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg"group-title="MUSIC", 8XM
-
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/112.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg"group-title="MUSIC",Nick Music
+http://58.65.171.202:8000/play/2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82CxYOo.jpg" group-title="MUSIC",9x Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
@@ -1325,8 +1324,7 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/221/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="MUSIC",MTV Rocks HD
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/1562.ts
-
+http://58.65.171.202:8000/play/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="MUSIC",MTV 90’s HD
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="MUSIC",MTV 00’s HD
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="MUSIC",MTV Base HD
@@ -1440,7 +1438,7 @@ http://iptv.prosto.tv:7000/ch83/video.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/natgeowild/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NATGEOWILD(src01).es(m3u4u)" tvg-name="Nat Geo Wild"  tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFOTAINMENT",NAT GEO WILD HD (Back up-3)
-http://103.161.2.142/hls/wild.m3u8
+https://mbed.cc/f8hlX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="INFOTAINMENT",Weather Channel
 https://ent.gcdn.co/E155/index.m3u8
@@ -1973,7 +1971,7 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/andpicture.m3u8
 #EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max"  tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX 
 https://raw.githubusercontent.com/frienemyman/jiochannel/main/Sonymax.m3u8
 #EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max"  tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX HD
-http://str24.l9574.com/706.stream/tracks-v1a1/index.m3u8
+http://shark2.dyndns.tv:5808/cy-setmax/tracks-v1/mono.m3u8?token=
 
 #EXTINF:-1 group-title="HINDI MOVIES",Sony MAX 4K
 
@@ -2191,7 +2189,7 @@ http://live.netmaxtv.com:8080/live/live/chunklist_w1439240750.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH MOVIES",Fox Movies
-
+http://93.157.62.180/FoxMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH MOVIES",Fox Movies HD (China)
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 
@@ -2215,11 +2213,11 @@ http://125.209.88.166:45793/BRN/FoxComedyHD.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO Signature
-
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=sig
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/nOiPsyr.png",HBO Hits
-
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hits
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
-
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=fam
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO (China)
 http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 
@@ -2298,15 +2296,13 @@ http://125.209.88.166:45793/BRN/OsnComedyHD.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/Paramount.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES",Movies
-
-
 https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES",& Flix HD 
-
+http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES",& Flix HD (Extra-2)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH MOVIES",& Prive HD
-
+http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH MOVIES",& Prive HD 
 #EXTINF:-1 tvg-id="MNplus(src07).in(m3u4u)" tvg-name="MN+ HD" tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="ENGLISH MOVIES",MN+ HD
 http://103.153.39.36:8000/play/a00u
