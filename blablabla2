@@ -62,7 +62,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla News", SA TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
 #EXTGRP:Bangla News
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangla News",News 24 HD
 #EXTGRP:Bangla News
@@ -858,23 +858,25 @@ http://str24.l9574.com/725.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.geosuper.tv/assets/front/img/live_banner.jpg" group-title="SPORTS",Geo Super (backup-1)
 https://38q.gcdn.co/WC9/tracks-v1a1/mono.m3u8
 #EXTINF:-1group-title="SPORTS",TSN Sports 1
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6521/index.m3u8
+http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS",TSN Sports 2
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6492/index.m3u8
+http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS",TSN Sports 3
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6522/index.m3u8
+http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS",TSN Sports 4
+http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1group-title="SPORTS",TSN Sports 5
+http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1group-title="SPORTS", RMC Sports 2
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/614.ts
+
 
 #EXTINF:-1group-title="SPORTS", RMC Sports 3
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/615.ts
+
 #EXTINF:-1group-title="SPORTS", RMC Sports 4
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/616.ts
+
 
 
 #EXTINF:-1group-title="SPORTS", Skynet Sports 1
