@@ -1442,8 +1442,10 @@ http://221.120.204.4/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-2
 http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-2
+#EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-3
 http://live.flixhub.net/hls/ngchd.m3u8
+#EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-4
+http://asdd.cc:7444/live/1/1/2169.m3u8
 
 #EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC (Dual Audio)
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28752?token=TURYAhZYEAwSVVpWXlYBBwEACAIDXFFQUwYGUVYOXwEPBAFWBAILUAhGTxBLF0AGVA9uD1IbCQQJBFEHShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSCldWA1EcQRVZVhQKRlcAAVIQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFoFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAxRClIXHw==
@@ -1932,7 +1934,7 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarWorldARB(src02).misc(m3u4u)" tvg-name="Star World"  tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.",STAR WORLD PREMIER HD
 http://180.178.130.180:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="StarWorldARB(src02).misc(m3u4u)" tvg-name="Star World"  tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.",OSN STAR WORLD HD
-
+http://asdd.cc:7444/live/1/1/2172.m3u8
 
 
 
@@ -2185,7 +2187,7 @@ http://180.178.130.180:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies(src07).in(m3u4u)" tvg-name="Star Movies" tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH MOVIES", Star Movies Select HD
 http://180.178.130.180:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies(src07).in(m3u4u)" tvg-name="Star Movies" tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH MOVIES", Star Movies select HD (Back up-1)
-
+http://asdd.cc:7444/live/1/1/2167.m3u8
 #EXTINF:-1 tvg-id="StarMovies(src07).in(m3u4u)" tvg-name="Star Movies" tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH MOVIES", Star Movies select HD (Back up-2)
 
 #EXTINF:-1 tvg-id="StarMovies(src07).in(m3u4u)" tvg-name="Star Movies" tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH MOVIES", OSN Star movies
