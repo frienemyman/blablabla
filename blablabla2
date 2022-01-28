@@ -26,6 +26,8 @@ http://103.159.4.38:5868/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports HD-2
 http://live.flixhub.net/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports HD-3
+http://asdd.cc:7444/live/1/1/2143.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",Maasranga
 #EXTGRP:Bangla
@@ -378,6 +380,7 @@ http://45.127.244.7:8080/hls/channel12.m3u8
 #EXTINF:-1 tvg-id="StarJalsha(src07).in(m3u4u)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD (Back UP-3)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #EXTINF:-1 tvg-id="StarJalsha(src07).in(m3u4u)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD (Back UP-4)
+http://asdd.cc:7444/live/1/1/2055.m3u8
 #EXTINF:-1 tvg-id="StarJalsha(src07).in(m3u4u)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha SD
 #EXTINF:-1 tvg-id="StarJalsha(src07).in(m3u4u)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha SD-2
 
@@ -400,8 +403,8 @@ https://raw.githubusercontent.com/frienemyman/jiochannel/main/Zeebangla.m3u8
 #EXTINF:-1 tvg-id="ColorsBengali(src07).in(m3u4u)" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD 
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
-#EXTINF:-1 tvg-id="ColorsBengali(src07).in(m3u4u)" tvg-name="Colors Bangla"  tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BANGLA ENT.",Colors bangla-1 
-http://indian.gcdn.co/BANGLA-IND-colorsBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ColorsBengali(src07).in(m3u4u)" tvg-name="Colors Bangla"  tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BANGLA ENT.",Colors bangla Cinema HD
+http://asdd.cc:7444/live/1/1/2161.m3u8
 #EXTINF:-1 tvg-id="ColorsBengali(src07).in(m3u4u)" tvg-name="Colors Bangla"  tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BANGLA ENT.",Colors bangla-2
 
 http://str24.l9574.com/904.stream/index.m3u8
@@ -446,7 +449,7 @@ http://14.199.164.20:4001/play/a0rh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema(Backup)
-http://str24.l9574.com/708.stream/index.m3u8
+http://asdd.cc:7444/live/1/1/2072.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies(src07).in(m3u4u)" tvg-name="Jalsha Movies HD" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Star Jalsha Movies HD
 http://148.72.155.84:80/jalshamuvies-enc/video.m3u8?token=thenayeemparvez
 
@@ -1455,7 +1458,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 http://iptv.prosto.tv:7000/ch83/video.m3u8
 
 #EXTINF:-1 tvg-id="NATGEOWILD(src01).es(m3u4u)" tvg-name="Nat Geo Wild"  tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFOTAINMENT",NAT GEO WILD HD (Back up-2)
-http://916309128f3e.sn.mynetname.net:1935/aslive/natgeowild/chunklist.m3u8
+http://asdd.cc:7444/live/1/1/2171.m3u8
 
 #EXTINF:-1 tvg-id="NATGEOWILD(src01).es(m3u4u)" tvg-name="Nat Geo Wild"  tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFOTAINMENT",NAT GEO WILD HD (Back up-3)
 https://mbed.cc/f8hlX
@@ -1856,7 +1859,7 @@ http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/48.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",Comedy TV
 http://180.178.130.180:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",CBS Reality
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono1-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",CBS Drama
 
 http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/1064.ts
