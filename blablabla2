@@ -582,15 +582,15 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports 3 HD
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports ESPN HD
-http://main2.gcdn.co/live1/espn/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports xtra -1 HD
-http://185.140.187.67:4000/play/a01b
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports xtra -2 HD
-http://185.140.187.67:4000/play/a01c
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports xtra -3 HD
-http://185.140.187.67:4000/play/a01d
+
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Watan Sports 2
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Halow Sports
 
@@ -614,15 +614,15 @@ https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp3.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/chunklist.m3u8
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena Sports 1
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+http://46.29.169.15:4001/play/a00g/index.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena sports 2
-http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",  2 (Backup)
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena Sports 3
-http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", ASTRO SuperSport 3 (Backup)
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena Sport 4
-http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Super Sport La Liga
 http://init.cheches.info/hls/103.m3u8
 
@@ -704,7 +704,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",DAZN 2
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",La Liga TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",DAZN F1
+http://66.70.176.103:8081/SPAIN|MOVISTARF1/SPAIN|MOVISTARF1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",La Liga TV-2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -739,7 +740,7 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgmlU3v7ZSwp2
 #EXTINF:-1 group-title="SPORTS",Sony ESPN xtra
 
 #EXTINF:-1 group-title="SPORTS",Sony ESPN US
-
+http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony ESPN 2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",One Golf
@@ -777,7 +778,7 @@ http://194.15.225.98:8000/play/a2qt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports Espaniol-2
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports xtra
-http://185.140.187.67:4000/play/a01j
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports xtra-2
 
@@ -809,11 +810,13 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-1)
 http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-2)
+http://145.239.142.113/BEIN-2-SD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (4k)
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (Backup-1)
-http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
+http://145.239.142.113/BEIN-3-SD/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (Backup-2)
 
@@ -824,19 +827,19 @@ http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 http://130.193.166.18/cache/Bein-Prem-4-HEVC/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
-
+http://145.239.142.113/BEIN-4-SD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
 
 http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 5
-http://130.193.166.18/cache/Bein-Prem-5-HEVC/master.m3u8
+http://145.239.142.113/BEIN-5-SD/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 6
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/364.ts
+http://145.239.142.113/BEIN-6-SD/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 7
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/365.ts
+http://145.239.142.113/BEIN-7-SD/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 8
 
@@ -901,10 +904,10 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
 
 
 #EXTINF:-1group-title="SPORTS", ESPN 1
-
+http://45.161.188.242:88/espn/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS", ESPN 2 
-
+http://45.161.188.242:88/espn2/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS",Fox sports 1 USA
 
@@ -912,9 +915,10 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
 #EXTINF:-1group-title="SPORTS",Fox sports 2 USA
 
 
-#EXTINF:-1group-title="SPORTS",ESPN 5
-
-#EXTINF:-1group-title="SPORTS",ESPN 6
+#EXTINF:-1group-title="SPORTS",ESPN 3
+http://45.161.188.242:88/espn3/mono.m3u8
+#EXTINF:-1group-title="SPORTS",ESPN 4
+http://45.161.188.242:88/foxsports/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS", Z Select 
 http://185.157.161.141:22222/play/a01q
