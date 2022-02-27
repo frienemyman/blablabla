@@ -790,51 +790,49 @@ http://194.15.225.98:8000/play/a2qt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports xtra-2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS USA-1
-http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS USA-2
-http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS MAX
-http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS MAX 1
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26480.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS USA-4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 France
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (4K)
-http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26486.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (Backup-1)
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (Backup-2)
 
-http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (4K)
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26487.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-1)
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-2)
 http://145.239.142.113/BEIN-2-SD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (4k)
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26488.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (Backup-1)
-http://145.239.142.113/BEIN-3-SD/playlist.m3u8
 
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (Backup-2)
 
-http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (4K)
-http://130.193.166.18/cache/Bein-Prem-4-HEVC/master.m3u8
-
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26489.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
-http://145.239.142.113/BEIN-4-SD/playlist.m3u8
+http://130.193.166.18/cache/Bein-Prem-4-HEVC/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
 
 http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
