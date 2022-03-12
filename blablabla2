@@ -10,7 +10,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD
 #EXTGRP:Bangla
-http://103.84.253.5/live/4/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV (Back up-1)
 http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD (Back up-2)
@@ -45,7 +45,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor TV
 http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor TV-2
-http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla News",INDEPENDENT TV
 #EXTGRP:Bangla News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -641,50 +641,50 @@ http://viperos.net:8080/live/WAYBRETV6611/WAYBRETV8812/232307.ts
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena Sport 4
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Super Sport La Liga
-https://free.one24tv.com:443/live/43001645463785/43001645463785/15200.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15200.ts
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Super Sport La Liga (Backup)
 http://194.67.196.19:80/hls/103.m3u8
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Cricket
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15211.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15211.ts
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Cricket (Backup-1)
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Cricket (Backup-2)
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport PSL
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15205.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15205.ts
 #EXTINF: -1 tvg-logo="http://myportal.live:8080/images/3f20b404d607668b1d86bec3823a3562.png" group-title="SPORTS", SuperSport Action
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 1
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15213.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15213.ts
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 2
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15217.ts
 
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15217.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 3
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 4
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15206.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15206.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Football
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15201.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15201.ts
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Premier League
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15199.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15199.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Premier League (Backup-1)
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15203.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15203.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Tenis
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15209.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15209.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport golf
 
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Rugby
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15212.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15212.ts
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Action
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15207.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15207.ts
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Grandstand
-https://free.one24tv.com:443/live/56681645957190/56681645957190/15208.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/15208.ts
 
 #EXTINF:-1 group-title="SPORTS",T SPORTS HD
 
@@ -893,16 +893,16 @@ http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
 http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS",TSN Sports 4
-http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1group-title="SPORTS",TSN Sports 5
-http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1group-title="SPORTS", RMC Sports 1
-https://free.one24tv.com:443/live/56681645957190/56681645957190/3192.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/3192.ts
 
 #EXTINF:-1group-title="SPORTS", RMC Sports 2
-https://free.one24tv.com:443/live/56681645957190/56681645957190/3193.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/3193.ts
 #EXTINF:-1group-title="SPORTS", RMC Sports 3
-https://free.one24tv.com:443/live/56681645957190/56681645957190/3194.ts
+https://free.one24tv.com:443/live/47851647011333/47851647011333/3194.ts
 
 
 #EXTINF:-1group-title="SPORTS", Skynet Sports 1
