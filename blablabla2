@@ -623,8 +623,8 @@ http://viperos.net:8080/live/WAYBRETV6611/WAYBRETV8812/232307.ts
 
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", ASTRO Supersport 1
+https://raw.githubusercontent.com/frienemyman/jiochannel/main/Bbcworldnews.m3u8
 
-http://www.mireasa-live.com/cdn/premium123/chunks.m3u8|Referer=https://player.licenses4.me/player.php?id=premium123&test=true
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", ASTRO Supersport 2
 http://www.mireasa-live.com/cdn/premium124/chunks.m3u8|Referer=https://player.licenses4.me/player.php?id=premium124&test=true
 
