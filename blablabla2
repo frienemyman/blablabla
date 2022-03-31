@@ -623,16 +623,16 @@ http://viperos.net:8080/live/WAYBRETV6611/WAYBRETV8812/232307.ts
 
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", ASTRO Supersport 1
-https://raw.githubusercontent.com/frienemyman/jiochannel/main/Bbcworldnews.m3u8
+http://49.128.184.35:25461/live/adekmanis/adekmanis/3615.ts
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", ASTRO Supersport 2
-http://www.mireasa-live.com/cdn/premium124/chunks.m3u8|Referer=https://player.licenses4.me/player.php?id=premium124&test=true
+http://49.128.184.35:25461/live/adekmanis/adekmanis/3616.ts
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", ASTRO Supersport 3
-
+http://49.128.184.35:25461/live/adekmanis/adekmanis/3617.ts
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", ASTRO Supersport 4
-
+http://49.128.184.35:25461/live/adekmanis/adekmanis/3618.ts
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena Sports 1
 
@@ -645,7 +645,7 @@ http://www.mireasa-live.com/cdn/premium124/chunks.m3u8|Referer=https://player.li
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena Sport 4
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Super Sport La Liga
-https://free.one24tv.com:443/live/47851647011333/47851647011333/15200.ts
+http://49.128.184.35:25461/live/adekmanis/adekmanis/129.ts
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Super Sport La Liga (Backup)
 http://194.67.196.19:80/hls/103.m3u8
@@ -670,8 +670,8 @@ https://free.one24tv.com:443/live/47851647011333/47851647011333/15217.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 4
 https://free.one24tv.com:443/live/47851647011333/47851647011333/15206.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Football
-https://free.one24tv.com:443/live/47851647011333/47851647011333/15201.ts
 
+http://49.128.184.35:25461/live/adekmanis/adekmanis/128.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Premier League
 https://free.one24tv.com:443/live/47851647011333/47851647011333/15199.ts
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Premier League (Backup-1)
@@ -2295,7 +2295,7 @@ https://crackle-plex.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg"group-title="ENGLISH MOVIES",Family flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg"group-title="ENGLISH MOVIES",CINEMAX (Main)
-http://181.78.22.214:8000/play/a01i
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg"group-title="ENGLISH MOVIES",CINEMAX Asia
 http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
