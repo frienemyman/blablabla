@@ -21,11 +21,11 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD (Back up-4)
 http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports HD
-http://103.159.4.38:5868/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://172.16.50.250:8081/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports SD
-http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8
+http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports HD-2
-https://ib.qqkkqqk.com/live/ch_5.m3u8
+http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports HD-3
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports HD-4
@@ -817,51 +817,51 @@ http://62.210.127.9:25461/bupTEuJf4f/6VpEtwqnrB/28731?play_token=nBTQAmxyOM&toke
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 1 France
 http://62.210.127.9:25461/bupTEuJf4f/6VpEtwqnrB/28814?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (4K)
-http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26486.ts
+http://zz@141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (Backup-1)
-http://stariptv.org:8080/wael2021/123456/15563
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (Backup-2)
-http://fortv.cc:8080/christina/christina/55337
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (4K)
-http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26487.ts
+http://zz@141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-1)
-http://stariptv.org:8080/wael2021/123456/15562
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-2)
-http://194.67.196.19:80/hls/105.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (4k)
-http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26488.ts
+http://zz@141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (Backup-1)
-http://stariptv.org:8080/wael2021/123456/15561
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (Backup-2)
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1009.ts
+
 
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (4K)
-http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26489.ts
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
-http://130.193.166.18/cache/Bein-Prem-4-HEVC/master.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1008.ts
+
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 5
-http://145.239.142.113/BEIN-5-SD/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 6
-http://145.239.142.113/BEIN-6-SD/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 7
-http://145.239.142.113/BEIN-7-SD/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 8
-http://fortv.cc:8080/christina/christina/55338
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 9
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 10
