@@ -923,7 +923,7 @@ https://free.one24tv.com:443/live/47851647011333/47851647011333/3194.ts
 
 
 #EXTINF:-1group-title="SPORTS", ESPN 1
-http://45.161.188.242:88/espn/mono.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1group-title="SPORTS", ESPN 2 
 http://45.161.188.242:88/espn2/mono.m3u8
