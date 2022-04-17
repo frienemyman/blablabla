@@ -817,24 +817,24 @@ http://62.210.127.9:25461/bupTEuJf4f/6VpEtwqnrB/28731?play_token=nBTQAmxyOM&toke
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 1 France
 http://62.210.127.9:25461/bupTEuJf4f/6VpEtwqnrB/28814?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (4K)
-http://zz@141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3244
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (Backup-1)
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 1 ARABIC (Backup-2)
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (4K)
-http://zz@141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3245
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-1)
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BEIN SPORTS 2 ARABIC (Backup-2)
-http://195.154.200.168:8000/play/a00q/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (4k)
-http://zz@141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3246
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 3 HD ARABIC (Backup-1)
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
@@ -844,7 +844,7 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (4K)
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3247
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 4 HD ARABIC (Backup-1)
@@ -852,13 +852,13 @@ http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 5
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3248
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 6
-
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3249
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 7
-
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3250
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/rqwM2YZ.png" group-title="SPORTS",Bein Sports 8
 
