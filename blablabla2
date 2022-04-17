@@ -247,9 +247,9 @@ http://125.209.88.166:45793/BRN/NickJr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SonicBangla(src07).in(m3u4u)" tvg-name="Sonic"  tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF:-1 tvg-id="SonicBangla(src07).in(m3u4u)" tvg-name="Sonic"  tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",Nick West
-http://62.210.127.9:25461/bupTEuJf4f/6VpEtwqnrB/28748?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
 #EXTINF:-1 tvg-id="SonicBangla(src07).in(m3u4u)" tvg-name="Sonic"  tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",Nick
-http://live.flixhub.net/hls/nick.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52235
 #EXTINF:-1 tvg-id="SonicBangla(src07).in(m3u4u)" tvg-name="Sonic"  tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",Discovery Family
 http://viperos.net:8080/live/WAYBRETV6611/WAYBRETV8812/127969.ts
 #EXTINF:-1 tvg-id="SonicBangla(src07).in(m3u4u)" tvg-name="Sonic"  tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",Nick Toons
@@ -327,7 +327,7 @@ http://103.153.39.36:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS",BBC Cbeebies 
 http://iptv.prosto.tv:7000/ch320/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ux9k61z.png" group-title="KIDS",Disney USA
-
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52234
 #EXTINF:-1 group-title="KIDS",Cartoonito USA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ux9k61z.png" group-title="KIDS",Disney INDIA
 http://103.153.39.36:8000/play/a01y
@@ -344,7 +344,7 @@ http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKSpv5k.png" group-title="KIDS",Pogo SD (Backup-1)
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo=" https://i.imgur.com/20fs4tp.png " group-title="KIDS",Disney Junior
-http://125.209.88.166:45793/BRN/DisneyXDHD.stream/playlist.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52233
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo=" https://i.imgur.com/20fs4tp.png " group-title="KIDS",Disney Junior (Back UP)
 http://103.153.39.36:8000/play/a020
@@ -597,11 +597,11 @@ http://watch.emasti.pk/stream/ptvsports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="SPORTS",ATN  CRICKET Plus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports 1 HD
-http://93.152.174.144:4000/play/btsport/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52241
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports 2 HD
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52240
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports 3 HD
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52239
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports ESPN HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports xtra -1 HD
@@ -950,7 +950,7 @@ http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/270.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU" group-title="SPORTS",Sky Sports Cricket HD -2
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/269.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU" group-title="SPORTS",Sky Sports Cricket HD-3
-http://31.172.87.31:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RED_oZ0YxU4iy2WlIbXfEUEENg%3D%3D%2C1649627506.9659699029=|User-agent=REDLINECLIENT
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4697
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU" group-title="SPORTS",Sky Sports Serie A
 
@@ -1012,7 +1012,7 @@ http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/275.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Football-1
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/273.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Football-2
-http://31.172.87.31:2200/EX/Sky_Sports_Football_HD-uk/tracks-v1a1/mono.m3u8?token=RED_oZ0YxU4iy2WlIbXfEUEENg%3D%3D%2C1649627506.9659699029=|User-agent=REDLINECLIENT
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50058
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Football (Back up)
 http://185.140.187.67:4000/play/a01l
@@ -1022,7 +1022,7 @@ http://185.140.187.67:4000/play/a01l
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Football-2
-
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4701
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
@@ -1462,7 +1462,7 @@ http://221.120.204.4/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-3
-http://live.flixhub.net/hls/ngchd.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52236
 #EXTINF:-1 tvg-id="NatGeographic(src01).de(m3u4u)" tvg-name="Nat Geo HD" tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC-4
 http://103.112.55.107:9090/play/a01d/index.m3u8
 
@@ -1645,7 +1645,7 @@ http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&toke
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",Discovery HD (Back up-2)
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",Discovery Velocity
-http://live.flixhub.net/hls/discovery.m3u8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52231
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="INFOTAINMENT",INVESTIGATION DISCOVERY
 
@@ -1838,7 +1838,7 @@ http://125.209.88.166:45793/BRN/SonyTurbo.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",Lifetime FHD
-
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52773
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",Lifetime FHD-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH ENT.",Fashion TV
@@ -2256,11 +2256,11 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH MOVIES",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="ENGLISH MOVIES",Fox Action Movies HD
-http://62.210.127.9:25461/bupTEuJf4f/6VpEtwqnrB/28775?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53024
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stick-person-dead-png-picture-798860-crime-clipart-svg-fox-crime-png-2000_376.png" group-title="ENGLISH MOVIES",Fox CRIME HD (Dual Audio)
-http://23.250.19.178:8080/live/WAYBRETV6611/WAYBRETV8812/38494.ts?token=GhsNUkYNFFhEBgEKA1ADV1UBV15fVQUAAlcEA1gHAgBXClRVBFMEW1cRGRtGRkFUBA85DwIRXFEMVgkGFRBCRgRLOlpRRwxAVwACCwIGER1HFg8LAxFcUwJWBgQOBgIDWRVHQ1wBFFgIRllVGRBWSREHFAgHXzkGURRZUVwQDVsUVQkfFwpYPQJWWFhbVhELR1NESkRaFRIWWF5HVV4bFwNQEUFUEVNAXF1AVVkeEVIKFwgSFEpEWBYgdBAVEFJNFVwLQFwKWEBcEUFKFx4RWBY9FAMVRxQHVQ9VQBsIFQVDFUdeVB1pAQldW1xWRlpeCxFEXEQARE4WD19cUEZYRz5JDFcXX1gXCl9I
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53023
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stick-person-dead-png-picture-798860-crime-clipart-svg-fox-crime-png-2000_376.png" group-title="ENGLISH MOVIES",Fox CRIME HD (Dual Audio-2)
-http://62.210.127.9:25461/bupTEuJf4f/6VpEtwqnrB/28779?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stick-person-dead-png-picture-798860-crime-clipart-svg-fox-crime-png-2000_376.png" group-title="ENGLISH MOVIES",Fox Comedy HD (Dual Audio)
 http://125.209.88.166:45793/BRN/FoxComedyHD.stream/playlist.m3u8
 
@@ -2305,24 +2305,25 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg"group-title="ENGLISH MOVIES",FOX Family Movies
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51393
 #EXTINF:-1 tvg-id="WarnerTV(src01).fr(m3u4u)" tvg-name="Warner TV" tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB HD 
 http://203.154.243.89:11205
 #EXTINF:-1 tvg-id="WarnerTV(src01).fr(m3u4u)" tvg-name="Warner TV" tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB Movies HD (Dual Audio)
 http://125.209.88.166:45793/BRN/TNT.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Box Hits
-https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
+http://125.209.88.166:45793/BRN/OXPremiere.stream/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",BEIN MOVIES HD 1 
 http://125.209.88.166:45793/BRN/beINPremiere1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",BEIN MOVIES HD 2
-https://free.one24tv.com:443/live/43001645463785/43001645463785/1176.ts
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/18
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",BEIN MOVIES HD 3 Drama
-http://125.209.88.166:45793/BRN/OXPremiere.stream/playlist.m3u8
 
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/19
 #EXTINF:-1 group-title="ENGLISH MOVIES",BEIN MOVIES HD 4 FAMILY
-https://free.one24tv.com:443/live/43001645463785/43001645463785/1178.ts
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/20
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",BEIN MOVIES HD 4
 
