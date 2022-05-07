@@ -21,7 +21,7 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD (Back up-4)
 http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",IPL-1
-https://www.mediaserver.express/live/ju9wl2Lx/index.m3u8
+http://stream.accessnetbd.com/hls/sky12.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", T Sports HD
 http://172.16.50.250:8081/main/mystream/chunks.m3u8
@@ -428,9 +428,9 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA ENT.", Sun Bangla
-http://live.flixhub.net/hls/sunbangla.m3u8
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA ENT.", Sun Bangla (Backup)
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/75117.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="BANGLA ENT.", Akash Aath
@@ -652,7 +652,7 @@ http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196180.ts
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196179.ts
 http://178.218.196.218:8000/play/a009/index.m3u8
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Cricket
-http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196186.ts
+http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Cricket (Backup-1)
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Cricket (Backup-2)
@@ -1105,7 +1105,7 @@ http://103.153.39.36:8000/play/a00o
 http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarPlusIP(src07).in(m3u4u)" tvg-name="Star Plus"  tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS FHD
-https://live.durbinlive.com/hls/starplus.m3u8
+http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF:-1 tvg-id="StarPlusIP(src07).in(m3u4u)" tvg-name="Star Plus"  tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS SD
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlusIP(src07).in(m3u4u)" tvg-name="Star Plus"  tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD 
