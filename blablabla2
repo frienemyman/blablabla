@@ -46,7 +46,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor TV
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor TV-2
-
+http://208.86.19.13:81/604.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla News",INDEPENDENT TV
 #EXTGRP:Bangla News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -89,13 +89,13 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangla",Channel I HD-2
 #EXTGRP:Bangla
-https://live.durbinlive.com/hls/channeli.m3u8
+http://103.136.200.246:8082/Channel-i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla",Nagorik TV HD
 #EXTGRP:Bangla
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla",Nagorik TV HD (Backup)
-
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="Bangla",Deepto TV HD
 #EXTGRP:Bangla
@@ -430,7 +430,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA ENT.", Sun Bangla
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA ENT.", Sun Bangla (Backup)
-
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="BANGLA ENT.", Akash Aath
@@ -467,7 +467,7 @@ http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema(Backup)
 https://live.durbinlive.com/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies(src07).in(m3u4u)" tvg-name="Jalsha Movies HD" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Star Jalsha Movies HD
-http://45.127.244.7:8080/hls/channel13.m3u8
+http://103.136.200.246:8082/Jalshamovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="BANGLA ENT.",Star Jalsha Movies (Back UP)
 http://live.flixhub.net/hls/jalshamovies.m3u8
@@ -476,23 +476,23 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-id="Sonyten1(src07).in(m3u4u)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD (4K)
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34490?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="Sonyten1(src07).in(m3u4u)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (Back up-1)
+http://103.136.200.246:8082/Ten1/index.m3u8
 
-http://stream.amrbd.com:8082/Ten1/index.m3u8
 EXTINF:-1 tvg-id="Sonyten1(src07).in(m3u4u)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (Back up-2)
 #EXTINF:-1 tvg-id="Sonyten1(src07).in(m3u4u)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (Back up-2)
 http://182.50.65.213:8888/udp/239.239.0.33:3001
 #EXTINF:-1 tvg-id="Sonyten1(src07).in(m3u4u)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (Back up-3)
-http://live.flixhub.net/hls/sonyten1.m3u8
+http://103.136.200.246:8082/Ten1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sonyten1(src07).in(m3u4u)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (Back up-5)
 http://103.112.55.107:9090/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Sonyten2(src07).in(m3u4u)" tvg-name="Sony Ten 2"  tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD (4K)
 http://45.127.244.7:8080/hls/channel5.m3u8
 #EXTINF:-1 tvg-id="Sonyten2(src07).in(m3u4u)" tvg-name="Sony Ten 2"   tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD (Back up-1)
-http://live.flixhub.net/hls/sonyten2.m3u8
+http://103.136.200.246:8082/Ten2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sonyten2(src07).in(m3u4u)" tvg-name="Sony Ten 2"   tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD (Back up-2)
-http://stream.amrbd.com:8082/Ten2/index.m3u8
+http://103.136.200.246:8082/Ten2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sonyten2(src07).in(m3u4u)" tvg-name="Sony Ten 2"   tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD (Back up-3)
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
@@ -509,7 +509,7 @@ http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1 tvg-id="Sonyten3(src07).in(m3u4u)" tvg-name="Sony Ten 3"   tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD (4K)
 http://stream.amrbd.com:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-id="Sonyten3(src07).in(m3u4u)" tvg-name="Sony Ten 3"   tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD (Back up-1)
-http://live.flixhub.net/hls/sonyten3.m3u8
+http://103.136.200.246:8082/Ten3/index.m3u8
 
 #EXTINF:-1 tvg-id="Sonyten3(src07).in(m3u4u)" tvg-name="Sony Ten 3"   tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD (Back up-2)
 http://103.112.55.107:9090/play/a00z/index.m3u8
@@ -520,7 +520,7 @@ http://182.50.65.213:8888/udp/239.239.0.35:3001
 #EXTINF:-1 tvg-id="Sonyten3(src07).in(m3u4u)" tvg-name="Sony Ten 3"   tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 4 HD (4K)
 
 #EXTINF:-1 tvg-id="SonySix(src07).in(m3u4u)" tvg-name="Sony Six"  tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six HD (4K)
-http://live.flixhub.net/hls/sonysix.m3u8
+http://103.136.200.246:8082/SonySix/index.m3u8
 #EXTINF:-1 tvg-id="SonySix(src07).in(m3u4u)" tvg-name="Sony Six"  tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six HD (Back up-1)
 
 http://45.127.244.7:8080/hls/channel6.m3u8
@@ -589,7 +589,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU" group-title="SPORTS",Ten Sports
-http://103.24.96.74/stream/ptvsports/playlist.m3u8
+http://103.167.190.250/hls/ten.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU" group-title="SPORTS",Ten Sports (Back up)
 
@@ -1203,7 +1203,7 @@ http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="PAK ENT.",Hum Masala (Back up)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="PAK ENT.",Hum TV FHD
-http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
+http://208.86.19.13:81/611.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="PAK ENT.",Hum TV (Backup)
 
@@ -2052,7 +2052,7 @@ http://103.112.55.107:9090/play/a02r/index.m3u8
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606" group-title="HINDI MOVIES",Colors Cineplex HD
-http://live.flixhub.net/hls/colorscineplex.m3u8
+http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606" group-title="HINDI MOVIES",Colors Cineplex HD (backup-1)
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34142?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606" group-title="HINDI MOVIES",Colors Cineplex HD (backup-2)
@@ -2157,7 +2157,7 @@ http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34127?play_token=nBTQAmxyOM&toke
 #EXTINF:-1 tvg-id="SonyPix(src07).in(m3u4u)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES",Sony Pix HD
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34470?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="SonyPix(src07).in(m3u4u)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES",Sony Pix HD (Back UP-1)
-http://live.flixhub.net/hls/sonypixhd.m3u8
+http://103.136.200.246:8082/SonyPix/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix(src07).in(m3u4u)" tvg-name="Sony Pix" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES",Sony Pix HD (Back UP-2)
 http://103.153.39.36:8000/play/a016
 
