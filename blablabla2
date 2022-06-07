@@ -649,7 +649,7 @@ http://178.218.196.218:8000/play/a00d/index.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS", Arena Sport 4
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Super Sport La Liga
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/194358
+http://185.145.43.244:8000/play/a00d/index.m3u8
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Super Sport La Liga (Backup)
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290641
@@ -667,17 +667,17 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196175.ts
 #EXTINF: -1 tvg-logo="http://myportal.live:8080/images/3f20b404d607668b1d86bec3823a3562.png" group-title="SPORTS", SuperSport Action
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 1
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11633
+http://185.145.43.244:8000/play/a00c/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 2
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11634
+http://185.145.43.244:8000/play/a00e/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 3
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11635
+http://185.145.43.244:8000/play/a00f/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Variety 4
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11636
+http://185.145.43.244:8000/play/a00g/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Football
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38575
@@ -942,16 +942,16 @@ https://free.one24tv.com:443/live/47851647011333/47851647011333/3194.ts
 
 
 #EXTINF:-1group-title="SPORTS", ESPN 1
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8
+http://185.145.43.244:8000/play/a00k/index.m3u8
 
 #EXTINF:-1group-title="SPORTS", ESPN 2 
 http://45.161.188.242:88/espn2/mono.m3u8
 
 #EXTINF:-1group-title="SPORTS",Fox sports 1 USA
-
+http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 #EXTINF:-1group-title="SPORTS",Fox sports 2 USA
-
+http://4.26.188.2:8081/udp/239.193.10.101:23902
 
 #EXTINF:-1group-title="SPORTS",ESPN 3
 http://45.161.188.242:88/espn3/mono.m3u8
